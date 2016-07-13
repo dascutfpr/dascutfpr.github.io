@@ -11,5 +11,5 @@ O website foi criado pela chapa que assumiu o diretório acadêmico no dia 12 de
 
 O site é desenvolvido em código-aberto para que todos possam ajudar a hackear e aprimorar, o código fonte pode ser acessado clicando <a href="https://github.com/dascutfpr/dascutfpr.github.io">aqui</a>.
 
-Guilmour H. D. Rossi <br>
+Guilmour Rossi <br>
 Diretor de Comunicação do DASC UTFPR 2016-2017
